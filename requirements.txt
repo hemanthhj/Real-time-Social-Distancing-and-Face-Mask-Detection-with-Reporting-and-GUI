@@ -1,0 +1,7 @@
+requests
+opencv-python
+keras
+numpy
+tensorflow
+pandas
+sklearn
