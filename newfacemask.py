@@ -58,5 +58,5 @@ while rval:
     if key == ord('q'):  # exit on q
         break
 
-cv2.destroyWindow("preview")
+cv2.destroyWindow("FACE MAAK DETECTION")
 vc.release()
