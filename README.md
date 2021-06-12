@@ -57,14 +57,13 @@ Covid Protocols to a Telegram Private Group made for this very cause.
 
 
 
-Dataset :- https://www.kaggle.com/omkargurav/face-mask-dataset
+Dataset :-
 
 * [Face mask](https://www.kaggle.com/omkargurav/face-mask-dataset)
 * [yolov3 weights](https://drive.google.com/file/d/1gqdAighUzlkg-ogA8PWRuPfOH0y8OpMI/view)
 
-yolov3 weights :- https://drive.google.com/file/d/1gqdAighUzlkg-ogA8PWRuPfOH0y8OpMI/view
-
 Reference and Credits :
 
-1. https://www.pyimagesearch.com/
-2. https://github.com/Shantanugupta1118/Social-Distancing-and-Face-Mask-Detection
+*[pyimagesearch](https://www.pyimagesearch.com/)
+*[shanuguptha](https://github.com/Shantanugupta1118/)
+many other people.
