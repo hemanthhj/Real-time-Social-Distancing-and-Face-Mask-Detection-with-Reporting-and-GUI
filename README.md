@@ -66,5 +66,5 @@ Reference and Credits :
 *[shanuguptha](https://github.com/Shantanugupta1118/)
 and many other people.
 
-Contact:-
-* [EMAIL](hemanthkumarhjk@gamil.com)
+**Contact:-
+Email:-** hemanthkumarhjk@gmail.com
