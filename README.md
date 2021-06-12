@@ -1,4 +1,4 @@
-# Face Mask Social Distancing Automated
+# Face Mask and Social Distancing Automated Rporting
 
 Face mask and Social distancing monitoring and Automated reporting with GUI
 
@@ -12,6 +12,13 @@ GUI :-
 
 
 
+# About
+Face mask and Social distancing monitoring and Automated reporting propose an efficient computer vision-based approach focused on the real-time 
+automated monitoring of people to detect both safe social distancing and face masks in public 
+places by implementing the model on computer to monitor activity and detect violations
+through camera(webcam/Phone) or a Network connected device. After detection of breach,
+computer sends an alert message including real-time Photograph of the individual violating
+Covid Protocols to a Telegram Private Group made for this very cause.
 
 
 
