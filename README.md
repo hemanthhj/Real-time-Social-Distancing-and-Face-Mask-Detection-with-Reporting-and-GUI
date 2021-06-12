@@ -1,6 +1,6 @@
-# Face Mask and Social Distancing Automated Rporting
+# Social Distancing and Face Mask Detection with Reporting and GUI
 
-**Face mask and Social distancing monitoring and Automated reporting with GUI**
+**Social Distancing and Face Mask Detection with Reporting and GUI**
 
 **GUI :-**
 
