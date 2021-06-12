@@ -67,7 +67,7 @@ def imform():
 
     print(resp.status_code)
     # time.sleep(5)
-    tkinter.messagebox.showinfo("Welcome to Inform.", "Report as been sent        press ok to continue")
+    tkinter.messagebox.showinfo("Welcome to Inform.", "Report has been sent        press ok to continue")
     print("Done")
 
 
