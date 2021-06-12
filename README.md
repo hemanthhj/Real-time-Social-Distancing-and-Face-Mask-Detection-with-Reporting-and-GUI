@@ -1,4 +1,4 @@
-# Social Distancing and Face Mask Detection with Reporting and GUI
+# Real time Social Distancing and Face Mask Detection with Reporting and GUI
 
 **Social Distancing and Face Mask Detection with Reporting and GUI**
 
