@@ -60,11 +60,16 @@ Dataset :-
 * [Face mask](https://www.kaggle.com/omkargurav/face-mask-dataset)
 * [yolov3 weights](https://drive.google.com/file/d/1gqdAighUzlkg-ogA8PWRuPfOH0y8OpMI/view)
 
+
 Reference and Credits :
 
 *[pyimagesearch](https://www.pyimagesearch.com/)
 *[shanuguptha](https://github.com/Shantanugupta1118/)
 and many other people.
 
-**Contact:-
-Email:-** hemanthkumarhjk@gmail.com
+
+**Contact:-**
+
+**Email:-** hemanthkumarhjk@gmail.com
+
+
