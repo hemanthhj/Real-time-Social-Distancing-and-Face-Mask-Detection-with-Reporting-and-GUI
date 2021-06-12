@@ -3,8 +3,8 @@
 Face mask and Social distancing monitoring and Automated reporting with GUI
 
 GUI :-
+![gui2](https://user-images.githubusercontent.com/80556685/121766609-db3e4900-cb70-11eb-9d41-3a1a5e6fc650.png)
 
-![GUI](https://user-images.githubusercontent.com/80556685/121141232-601b2100-c858-11eb-84ff-ab39e3e4ee5b.png)
 
 
 
