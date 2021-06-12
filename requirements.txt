@@ -5,5 +5,3 @@ numpy
 tensorflow
 pandas
 sklearn
-pillow
-pyautogui
