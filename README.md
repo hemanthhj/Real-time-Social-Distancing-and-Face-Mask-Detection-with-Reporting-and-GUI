@@ -1,4 +1,4 @@
-# face_mask_social_distancing_automated
+# Face Mask Social Distancing Automated
 
 Face mask and Social distancing monitoring and Automated reporting with GUI
 
